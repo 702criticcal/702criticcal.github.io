@@ -1,6 +1,5 @@
 # SITE CONFIGURATION
 baseurl: "702criticcal.github.io"
-#url: "https://sylhare.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
